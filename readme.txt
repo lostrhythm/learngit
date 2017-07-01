@@ -8,3 +8,4 @@ branch dev2
 Creating a new branch is quick AND simple.
 branch dev1
 branch dev2
+branch dev3
